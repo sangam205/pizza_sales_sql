@@ -1,5 +1,5 @@
-Pizza-saless
-Problem Statement:
+<h1>Pizza-saless</h1>
+<b>Problem Statement: </b>
 There are four csv files (order details, orders, pizza type, pizzas). Our goal is to merge those four files and get insights from this dataset.
 Insights derived from the data:
 Classic is most selling category where as chicken is less selling category.
