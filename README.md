@@ -1,6 +1,6 @@
-<h1>Pizza-saless</h1>
+<h1>Pizza Sales</h1>
 <b>Problem Statement: </b>
-There are four csv files (order details, orders, pizza type, pizzas). Our goal is to merge those four files and get insights from this dataset.
+There are four csv files (order details, orders, pizza type, pizzas). Our goal is to merge those four files and get insights from this dataset. <br>
 Insights derived from the data:
 Classic is most selling category where as chicken is less selling category.
 Customer are prefer L size of pizza most.
