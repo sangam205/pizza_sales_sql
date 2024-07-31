@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Pizza Sales</h1>
+<h1>Pizza Sales</h1>
 <b>Problem Statement: </b><br><br>
 There are four csv files (order details, orders, pizza types, pizzas). <br>
 Our goal is to merge those four files and get insights from this dataset. <br> <br>
