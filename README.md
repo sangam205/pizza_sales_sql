@@ -10,6 +10,6 @@ Our goal is to merge those four files and get insights from this dataset. <br> <
 <li>The Classic Delux Pizza is the most ordered pizza type.</li>
 <li>The Thai Chicken Pizza is the most ordered pizza type based on revenue.</li>
 
-<br> <br> <br> <br>
+<br> <br> 
 
 Please check "_Pizza Sales .pdf" for checking queries.
