@@ -9,3 +9,7 @@ Our goal is to merge those four files and get insights from this dataset. <br> <
 <li>The peak order time of pizza is from 12:00 to 13:00 </li>
 <li>The Classic Delux Pizza is the most ordered pizza type.</li>
 <li>The Thai Chicken Pizza is the most ordered pizza type based on revenue.</li>
+
+
+
+Please check _Pizza Sales .pdf for checking queries.
