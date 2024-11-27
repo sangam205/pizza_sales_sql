@@ -12,4 +12,4 @@ Our goal is to merge those four files and get insights from this dataset. <br> <
 
 <br> <br> 
 
-Please check "_Pizza Sales .pdf" for checking queries.
+Please check <b> "_Pizza Sales .pdf" </b> for checking queries.
